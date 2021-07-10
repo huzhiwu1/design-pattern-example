@@ -1,0 +1,1 @@
+import "./src/singleton/singleton.js"
