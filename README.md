@@ -10,3 +10,11 @@
 ## [单例模式](./src/singleton)
 
 > 定义：保证一个类仅有一个实例，并提供一个访问它的全局访问点
+
+## [桥接模式](./src/bridge)
+
+> 通过抽象将组件连接起来
+
+> 桥接模式可以防止了“笛卡尔乘积”复杂性的爆炸
+
+详情可以看：https://dlshyxr0cp.feishu.cn/docs/doccnEF3BY9jqEIIawnmAu2YIff
