@@ -18,3 +18,10 @@
 > 桥接模式可以防止了“笛卡尔乘积”复杂性的爆炸
 
 详情可以看：https://dlshyxr0cp.feishu.cn/docs/doccnEF3BY9jqEIIawnmAu2YIff
+
+## [观察者](./src/observer)
+
+> 观察者是希望被告知系统中发生的事件的对象
+> 生成事件的实体是可观察的
+
+详细可以看：https://dlshyxr0cp.feishu.cn/docs/doccnwBunXOfuv3090L6rkNmFGc
