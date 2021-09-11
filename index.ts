@@ -3,4 +3,5 @@
 // import './src/strategy/strategy.ts';
 // import './src/singleResponsibility/singleResponsibility.js';
 // import './src/bridge/bridge.ts';
-import './src/observer/observer.ts';
+// import './src/observer/observer.ts';
+import './src/comand/command.ts';
