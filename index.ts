@@ -6,4 +6,5 @@
 // import './src/observer/observer.ts';
 // import './src/comand/command.ts';
 // import './src/flyWeight/flyWeight.ts';
-import './src/mediator/mediator.ts';
+// import './src/mediator/mediator.ts';
+import './src/strategy/strategyV2';
