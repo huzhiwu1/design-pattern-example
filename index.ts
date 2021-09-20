@@ -8,4 +8,5 @@
 // import './src/flyWeight/flyWeight.ts';
 // import './src/mediator/mediator.ts';
 // import './src/factory/factory.ts';
-import './src/abstractFactory/abstractFactory.ts'
+// import './src/abstractFactory/abstractFactory.ts'
+import './src/state/state.ts';

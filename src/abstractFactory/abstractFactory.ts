@@ -104,7 +104,7 @@ class VictorianFurniture extends FurnitureFactory{
   
 }
 
-function client(){
+export function client(){
   const victorianFurniture = new VictorianFurniture();
   const chair = victorianFurniture.createChair();
   chair.render();
