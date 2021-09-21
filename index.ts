@@ -7,4 +7,7 @@
 // import './src/comand/command.ts';
 // import './src/flyWeight/flyWeight.ts';
 // import './src/mediator/mediator.ts';
-import './src/strategy/strategyV2';
+// import './src/factory/factory.ts';
+// import './src/abstractFactory/abstractFactory.ts'
+// import './src/state/state.ts';
+import './src/composite/composite.ts';
